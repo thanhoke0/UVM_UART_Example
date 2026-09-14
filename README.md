@@ -1,6 +1,7 @@
 UVM UART Host Agent Bench Example
 ============
-Author: WeiChung Wu
+Original Author: WeiChung Wu
+Verification & Fixes: Nguyễn Việt Thành (thanhoke0)
 
 This is an UVM test bench example to demonstrate that an UART host agent performs TX/RX data transfer between UART device design.
 It is an example of how to build a basic UVM environment bench. So if you are a beginner in the field of constraint random verification, it might help you well to go through the UVM methodology.
