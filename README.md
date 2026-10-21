@@ -18,3 +18,9 @@ Users should be able to implement the rest of part by themselves.
 
 ## Test Bench Diagram
 ![uart_tb_diagram](https://github.com/WeiChungWu/UVM_UART_Example/raw/master/tb/uart_tb_diagram.png)
+
+## Cloud environment setup
+
+See [cloud setup instructions](scripts/cloud/README.md) for installing the pinned
+UVM library and SystemVerilog static compiler, running prerequisite checks, and
+understanding the remaining blockers to full UART simulation.
